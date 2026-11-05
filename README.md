@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Prasanna Salve
 
-<!--
-**Prasannas19/Prasannas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year BSc Computer Science student in Pune, building AI-powered tools and learning something new every week.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[CogniCrew](https://github.com/Prasannas19/cognicrew)** - Your Personal Team of AI Research Agents.
+An academic research assistant that grounds every answer in your own documents: upload a PDF, ask questions, and get answers with page-level citations. Multi-agent workflow (Web Researcher, Document Analyst, Fact Checker, Report Writer), plus study tools like quizzes, flashcards, and study guides generated from your documents.
+
+Built with Python, FastAPI, PostgreSQL, PyMuPDF, and vanilla JS. AI orchestration across NVIDIA NIM and Google Gemini, with Exa for web research.
+
+## What I'm into
+
+- AI tools, prompt engineering, and LLM orchestration
+- Retrieval-augmented generation (RAG) and document AI
+- Testing new apps and hunting down interesting GitHub projects
+
+## Currently learning
+
+- Java and Python fundamentals
+- Android development (coming up in semester 6)
