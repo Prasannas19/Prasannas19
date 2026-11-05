@@ -11,10 +11,13 @@ Built with Python, FastAPI, PostgreSQL, PyMuPDF, and vanilla JS. AI orchestratio
 
 ## What I'm building next
 
+A bunch of projects that make life easier:
+
 - **BYOK AI app for Android & iOS** - free, open-source AI on mobile, powered by the user's own API keys
 - **A better dictation app** - reverse-engineering what makes Wispr Flow great and rebuilding it my own way
 - **ManyChats** - a multi-chat tool with smarter auto-DM workflows
 - **My own app** - details soon
+- **A beautiful open-source music app** for Linux, Mac & Windows - open-source music apps have great engines but rough UIs, and Spotify keeps raising prices
 
 ## What I'm into
 
