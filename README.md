@@ -9,6 +9,13 @@ An academic research assistant that grounds every answer in your own documents: 
 
 Built with Python, FastAPI, PostgreSQL, PyMuPDF, and vanilla JS. AI orchestration across NVIDIA NIM and Google Gemini, with Exa for web research.
 
+## What I'm building next
+
+- **BYOK AI app for Android & iOS** - free, open-source AI on mobile, powered by the user's own API keys
+- **A better dictation app** - reverse-engineering what makes Wispr Flow great and rebuilding it my own way
+- **ManyChats** - a multi-chat tool with smarter auto-DM workflows
+- **My own app** - details soon
+
 ## What I'm into
 
 - AI tools, prompt engineering, and LLM orchestration
