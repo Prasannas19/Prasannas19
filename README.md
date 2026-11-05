@@ -25,7 +25,7 @@ A bunch of projects that make life easier:
 - Retrieval-augmented generation (RAG) and document AI
 - Testing new apps and hunting down interesting GitHub projects
 
-## Currently learning
+## Currently
 
-- Java and Python fundamentals
-- Android development (coming up in semester 6)
+- Deep in new AI tools and courses, always adding another one to the stack
+- Working across languages and picking up whatever each project needs
