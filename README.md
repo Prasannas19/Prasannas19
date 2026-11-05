@@ -17,7 +17,7 @@ A bunch of projects that make life easier:
 - **A better dictation app** - reverse-engineering what makes Wispr Flow great and rebuilding it my own way
 - **ManyChats** - a multi-chat tool with smarter auto-DM workflows
 - **My own app** - details soon
-- **A beautiful open-source music app** for Linux, Mac & Windows - open-source music apps have great engines but rough UIs, and Spotify keeps raising prices
+- **A beautiful open-source music app** for Linux, Mac & Windows - born from the daily annoyance of music being stuck on my phone - open-source players have great engines but rough UIs, and Spotify keeps raising prices
 
 ## What I'm into
 
