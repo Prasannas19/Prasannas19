@@ -29,3 +29,4 @@ A bunch of projects that make life easier:
 
 - Deep in new AI tools and courses, always adding another one to the stack
 - Working across languages and picking up whatever each project needs
+- Selected for the AWS student program - starting cloud fundamentals
